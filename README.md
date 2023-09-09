@@ -1,2 +1,3 @@
-# git-test
-test pour le cours d eblent.ai
+# Test Git
+
+Nous travaillons sur les branches de Git !
